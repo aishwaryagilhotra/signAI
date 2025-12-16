@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print("Using device:", DEVICE)
 
-DATA_DIR = "asl-alphabet/asl_alphabet_train"
+DATA_DIR = "asl-alphabet/asl_alphabet_train/asl_alphabet_train"
 MODEL_OUT = "asl_model.pth"
 
 IMG_SIZE = 128          # smaller = faster locally
