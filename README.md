@@ -3,5 +3,3 @@ ONGOING. Real-time Sign Language to Speech using AI. An on-device AI system for 
 This project demonstrates the complete ML lifecycle — from data preprocessing and model training to cross-platform deployment.
 
 ASL Dataset - https://www.kaggle.com/datasets/grassknoted/asl-alphabet?resource=download
-
-
